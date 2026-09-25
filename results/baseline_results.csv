@@ -1,0 +1,224 @@
+test_id,timestamp,prompt,response,response_time_seconds
+N01,2026-09-17T19:52:10.091450,What academic support is available for students?,"Most universities offer a mix of academic skills, subject-specific help, and accessibility support. Common options include:
+
+- **Academic Skills / Learning Centre**
+  - Help with **essay structure, academic writing, referencing, and editing skills**
+  - **Study strategies** (time management, note‑taking, exam prep)
+  - Workshops, drop‑in sessions, and 1:1 appointments
+
+- **Tutoring and Subject Support**
+  - **Peer Assisted Study Sessions (PASS)/Supplemental Instruction**
+  - **Peer tutoring** or study groups
+  - Faculty-led revision sessions or problem-solving clinics (often for maths/stats/coding)
+
+- **Library Support**
+  - Research help: **finding sources, databases, literature reviews**
+  - Referencing tools (e.g., EndNote/Zotero) and citation workshops
+  - Librarian consultations (in person or online)
+
+- **Lecturer/Tutor Consultation Hours**
+  - Regular office hours for assignment guidance, feedback, and clarifying content
+
+- **Writing/Language Support (especially for international students)**
+  - Academic English workshops
+  - Language development consultations and conversation groups
+
+- **Accessibility/Disability Support**
+  - Academic accommodations (extra exam time, note-takers, assistive tech)
+  - Support plans for ongoing health conditions, ADHD, dyslexia, etc.
+
+- **Student Success/Advising Services**
+  - Course planning and academic progress check-ins
+  - Early-intervention support if you’re struggling in a subject
+
+If you tell me your university (or at least your country/campus) and what you need help with (writing, maths, exam prep, referencing, etc.), I can point you to the most relevant services and how to access them.",7.89
+N02,2026-09-17T19:52:20.552337,How can I get help with my studies?,"You can usually get study help through a few main university services. Here are the most common options and how to access them:
+
+### 1) Academic skills / learning support
+**What they help with:** essay structure, academic writing, referencing, critical thinking, reading strategies, note‑taking, study plans, exam prep.  
+**How to use it:** book a 1:1 appointment, join workshops/webinars, or use online resources (study guides, templates).
+
+### 2) Tutoring and course-based support
+**What they help with:** understanding course content and assignments.  
+**How to use it:** attend tutorials/labs, consultation hours (“office hours”), revision sessions, peer-assisted study sessions (often called PASS/PAL/SI).
+
+### 3) Library support
+**What they help with:** finding sources, database searching, literature reviews, evaluating sources, referencing tools (EndNote/Zotero), avoiding plagiarism.  
+**How to use it:** ask a librarian (chat/email/in-person), book research consultations, attend library workshops.
+
+### 4) Peer mentoring / study groups
+**What they help with:** accountability, sharing study strategies, settling into uni.  
+**How to use it:** join peer mentoring programs, course group chats/forums, student society study groups.
+
+### 5) Accessibility / disability support (if relevant)
+**What they help with:** exam adjustments, note-taking support, assistive tech, flexibility with attendance/assessment where appropriate.  
+**How to use it:** register with the accessibility office and provide documentation; they’ll create an access plan.
+
+### 6) Wellbeing and counselling (if stress is affecting study)
+**What they help with:** stress, anxiety, motivation, burnout, time management habits.  
+**How to use it:** book counselling, wellbeing workshops, or speak to student support advisors.
+
+### 7) Teaching staff and advisors
+**Who to contact:** your **tutor**, **unit coordinator/lecturer**, or **academic advisor**.  
+**Best for:** clarifying assignment expectations, getting feedback, extensions/special consideration processes.
+
+---
+
+## If you tell me these, I can point you to the best option
+1) Which university/campus (or country) are you at?  
+2) What are you studying and what kind of help do you need (writing, maths, exam prep, time management, understanding content, etc.)?  
+3) Is it urgent (deadline this week) or ongoing support?",10.46
+N03,2026-09-17T19:52:24.759813,Where can students get career advice?,"Students can get career advice through the university’s **Careers/Employability Service (Career Development Centre)**. They typically offer:
+
+- **One-on-one career counselling/advising** (choosing majors, career planning, job search strategy)
+- **CV/résumé and cover letter reviews**
+- **Interview coaching** and mock interviews
+- **Internship/placement support** and employer connections
+- **Workshops and careers fairs**
+- **Online career tools** (job boards, career assessments)
+
+You can usually find them by searching your university website for **“Careers,” “Employability,” or “Career Development”**, or by booking via the student portal.
+
+If you tell me your university (or campus) I can point you to the exact office and booking link.",4.21
+N04,2026-09-17T19:52:32.350924,What support is available for international students?,"Most universities offer a dedicated set of services for international students across academics, wellbeing, visas, and settling in. Common support includes:
+
+- **International Student Office / Global Services**
+  - Orientation programs, arrival and settling-in help
+  - Advice on enrolment, course changes, and university processes
+  - General guidance on living in the local area (transport, banking, etc.)
+
+- **Visa and compliance support (where permitted)**
+  - Help understanding visa conditions (study load, work limits, attendance)
+  - Guidance on documents and deadlines (e.g., confirmations of enrolment, letters)
+  - Referrals to registered migration/immigration advisers if needed
+
+- **Academic support**
+  - Study skills workshops (essay writing, referencing, exam prep)
+  - English language and communication support
+  - Tutoring programs, peer-assisted study sessions, and learning advisers
+
+- **Wellbeing and mental health**
+  - Confidential counselling services
+  - Stress management and wellbeing workshops
+  - Crisis support and after-hours options (varies by university)
+
+- **Health and safety**
+  - Help navigating health insurance requirements (e.g., OSHC where relevant)
+  - Campus health clinics or referrals to local doctors
+  - Safety resources and campus security
+
+- **Financial and practical support**
+  - Budgeting advice and emergency hardship funds (eligibility varies)
+  - Part-time work and careers advice (CVs, interviews, job search)
+  - Accommodation services (on-campus housing, vetted rentals, tenancy advice)
+
+- **Community and connection**
+  - International student associations, clubs, mentoring/buddy programs
+  - Cultural events and social activities to help you meet people
+
+If you tell me your **university name/campus and country**, I can point you to the exact offices, links, and how to book appointments.",7.59
+N05,2026-09-17T19:52:39.197497,How can students access counselling services?,"Students can usually access university counselling services in a few common ways (exact steps vary by institution):
+
+- **Via the Student Wellbeing/Counselling website:** Most universities have an online portal where you can read about services and **book an appointment** (in-person or telehealth).
+- **Self-referral (no GP needed):** You typically **don’t need a doctor’s referral**—students can contact counselling directly.
+- **Phone, email, or walk-in:** Many counselling centres allow you to **call or email to request an appointment**; some offer **same-day/walk-in sessions** or brief consultations.
+- **Through your student portal/app:** Some universities let you book through the **student portal** under “Support,” “Wellbeing,” or “Counselling.”
+- **Referral from university staff:** Academic advisers, tutors, residential staff, or disability/wellbeing teams can help connect you to counselling, but it’s usually still voluntary.
+
+What to expect:
+- **Eligibility:** Generally available to currently enrolled students, sometimes with session limits per year.
+- **Cost:** Often **free or low-cost** for students.
+- **Confidentiality:** Sessions are typically confidential, with exceptions if there’s a serious safety concern.
+
+If you tell me your **university name/campus (or country)**, I can give the exact booking link/steps and hours. If you or someone else is in **immediate danger**, call local emergency services right away.",6.85
+N06,2026-09-17T19:52:48.502986,What disability support may be available for students?,"Most universities offer a range of disability and accessibility supports to help students participate fully in study. What’s available can vary by institution, but common supports include:
+
+### Academic adjustments (reasonable adjustments)
+- **Extra time in exams** (and/or rest breaks)
+- **Alternative exam arrangements** (smaller room, separate venue, use of a computer)
+- **Extensions or flexibility with attendance** where disability/health impacts attendance or deadlines
+- **Adjusted placement arrangements** (for practicum/clinical/work placements)
+- **Note-taking support** or permission to **record lectures**
+- **Alternative assessment formats** where appropriate
+
+### Learning and access supports
+- **Assistive technology** (screen readers, speech-to-text, captioning tools, ergonomic equipment)
+- **Accessible format materials** (e.g., digital text, large print, audio, Braille)
+- **Accessible classrooms and campus navigation** support
+- **Captioning/interpreting** (e.g., live captions, Auslan/BSL interpreters, hearing loop support)
+
+### Advising and coordination
+- A dedicated **Disability/Accessibility Service** that can:
+  - Help you register and assess needs
+  - Create an **Access Plan / Academic Adjustment Plan**
+  - Liaise with teaching staff on your behalf (with your consent)
+
+### Health and wellbeing supports (often linked)
+- **Counselling and mental health support**
+- **Medical services** or referrals
+- **Study skills support** tailored to ADHD/ASD, chronic illness, mental health, etc.
+
+### Typical process to access support
+1. **Register** with the university’s disability/accessibility service  
+2. Provide **supporting documentation** (medical letter, psychologist report, education plan, etc.)
+3. Meet with an advisor to agree on **reasonable adjustments**
+4. An **access plan** is shared with your instructors (usually without detailed diagnosis info)
+
+If you tell me your university (or country) and the type of support you’re looking for (exams, placements, mental health, mobility, ADHD/ASD, chronic illness, etc.), I can point you to the most likely services and what documentation is usually accepted.",9.31
+N07,2026-09-17T19:52:55.657658,How can I get help with enrolment?,"You can usually get enrolment help through a few main university support channels:
+
+- **Student Enrolment/Student Administration (Enrolments team):** They can help with adding/dropping classes, changing your study load, prerequisites, course rules, and enrolment errors.
+- **Academic advising / course advice:** For guidance on *what* to enrol in (study plan, electives, progression, majors/minors).
+- **Student IT/Portal support:** If the issue is technical (can’t log in, system errors, timetabling tool not working).
+
+### What to do now
+1. **Check your student portal/enrolment page** for any alerts (holds/sanctions, unpaid fees, missing documents, prerequisite blocks).
+2. **Contact the Enrolments/Student Administration team** via your university’s:
+   - online enquiry form/ticket system, or  
+   - phone/live chat, or  
+   - in-person Student Centre (if available).
+3. If you’re unsure which classes to choose, **book an appointment with an academic advisor** (often via your faculty/school).
+
+### To point you to the right place, tell me:
+- Which university/campus you’re at (or country), and
+- What kind of issue it is (e.g., “can’t enrol due to prerequisite,” “need to change classes,” “credit transfer,” “late enrolment,” “wrong course structure”).
+
+If you share those details, I can suggest the most likely office and what information to include in your request.",7.15
+N08,2026-09-17T19:53:03.689570,What financial support may be available for students?,"Common types of financial support that may be available to university students include:
+
+- **Scholarships and bursaries**: Merit-based (academic, leadership, sports) and equity/need-based awards. These usually don’t need to be repaid.
+- **Grants and government assistance**: Depending on your country/region, you may be eligible for government grants, fee support, or living-cost support.
+- **Student loans**: Government or private loans to help cover tuition and/or living expenses (repayment terms vary).
+- **Hardship/Emergency funds**: Short-term help for unexpected financial crises (e.g., rent arrears, urgent travel, medical costs).
+- **Tuition fee waivers or discounts**: Sometimes available for specific circumstances (e.g., financial need, staff dependants, partner institutions).
+- **Work-study and campus jobs**: Part-time roles on campus designed to fit around study.
+- **Payment plans**: The option to pay tuition in instalments rather than one lump sum.
+- **Accommodation support**: Subsidised housing, residential bursaries, or help finding lower-cost options.
+- **Support for specific groups**: Funding for students with disabilities, carers, student parents, care leavers, refugees/asylum seekers, or first-generation students.
+- **Course-related cost support**: Help with equipment, textbooks, laptops, software, travel to placements, or fieldwork costs.
+
+If you tell me **which university (or country/region)** you’re studying in and whether you’re **undergraduate/postgraduate** and **domestic/international**, I can point you to the most relevant options and where to apply.",8.03
+N09,2026-09-17T19:53:10.453268,Where can students get help with their resume?,"Students can usually get resume help through these university services:
+
+- **Careers / Employability Service (Career Hub):** One-on-one resume reviews, drop-in sessions, workshops, and templates tailored to graduate jobs and internships.
+- **Faculty/School career advisors:** Some departments offer discipline-specific advice (e.g., engineering, business, health).
+- **Peer mentoring / student success programs:** Peer-led resume checks and application support.
+- **Work Integrated Learning (WIL) / Internship office:** Help aligning your resume to placement requirements and professional standards.
+- **Library / Learning support:** Sometimes runs workshops on professional writing and job applications.
+- **Student Association / Graduate Student Association:** May offer free resume clinics, networking events, or industry panels.
+
+If you tell me your university name (or campus) and whether you’re applying for a job, internship, or placement, I can point you to the exact service and how to book an appointment.",6.76
+N10,2026-09-17T19:53:19.121676,What services can help students with study difficulties?,"Universities usually offer several services to help if you’re having study difficulties. Here are the most common (and effective) options to look for:
+
+- **Academic Skills / Learning Support Centre**: Help with essay writing, referencing, study strategies, exam prep, time management, and note‑taking. Often includes 1:1 appointments, workshops, and online resources.
+- **Tutoring / PASS / Supplemental Instruction**: Peer‑assisted study sessions or drop‑in tutoring for specific units (great for keeping up week to week).
+- **Course/Unit Support (Lecturers, Tutors, Teaching Assistants)**: Consultation hours to clarify content, get feedback on drafts, or plan how to catch up.
+- **Library Services**: Research help, database searching, referencing tools, academic integrity support, and sometimes writing or study workshops.
+- **Accessibility / Disability Support**: If difficulties relate to ADHD, dyslexia, chronic illness, mental health, or other conditions—this office can arrange **reasonable adjustments** (e.g., extra exam time, note-taking support, flexible attendance where appropriate).
+- **Student Counselling / Wellbeing**: Support for stress, anxiety, burnout, motivation issues, and personal challenges that affect study.
+- **Peer Mentoring / First‑Year Support Programs**: Help with settling in, navigating expectations, and building routines and confidence.
+- **IT Help Desk / Digital Learning Support**: Assistance with the learning platform (LMS), lecture recordings, submission issues, and required software.
+- **Advising / Student Success Coaches** (if available): Planning your study load, managing deadlines, and connecting you to the right services.
+- **Financial Aid / Student Services**: If work hours or financial stress are impacting study, they can help with budgeting advice, grants, emergency support, or payment plans.
+
+If you tell me your university (or country) and what kind of difficulty you’re having (writing, time management, a specific subject, concentration, mental health, etc.), I can suggest the best services to contact first and what to ask for.",8.67
